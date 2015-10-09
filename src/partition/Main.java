@@ -22,7 +22,7 @@ public class Main {
         int n = Integer.parseInt(line[0]);
         int k = Integer.parseInt(line[1]);
 
-            System.out.println(partition(n, k));
+        System.out.println(partition(n, k));
         }
     }
 
